@@ -4,8 +4,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("/Users/bakhtiyorabdunazarov/Desktop/MyMac/Projects/Project9 Dasmoto`s Arts & Crafts/resources/image1.jpeg");
-}
+    background-image: url("image1.jpeg")/}
 
 .brushes {
     background-color: mediumspringgreen;
